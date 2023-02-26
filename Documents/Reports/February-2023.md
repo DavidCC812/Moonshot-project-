@@ -25,12 +25,12 @@ For Step 1 of the project, I focused on determining the medical instruments and 
 As part of my research, I analyzed various sources such as medical equipment catalogs, industry reports, and academic papers. I identified common medical instruments and equipment used in hospital settings, such as scalpels, forceps, syringes, and stethoscopes.
 
 ### Learning Focus
-Although I have some knowledge of machine learning, I decided to focus on data gathering and analysis first, as it's important to have a solid foundation before proceeding with more advanced techniques. Therefore, I'm using this opportunity to enhance my research and data collection skills.
+Although I have some knowledge of machine learning, I decided to focus on data gathering and analysis first, as it's important to have a solid foundation before proceeding with more advanced techniques. Therefore, I'm using this opportunity to enhance my research and data collection skills, as well as to learn in a deeper way the technologies involved, such as TensorFlow for machine learning model development and possibly OpenCV for computer vision tasks.
 
 ### Future Steps
 Moving forward, my plan is to collect and label a dataset of images of the identified medical instruments and equipment. I will also work on cleaning and preprocessing the data to ensure that it's suitable for training the machine learning model.
 
 ### Technologies
-The technologies that I will be primarily using for this project are Python, TensorFlow or PyTorch for the machine learning model development, and possibly OpenCV for computer vision tasks.
+The technologies that I will be primarily using for this project are Python and TensorFlow for the machine learning model development, and possibly OpenCV for computer vision tasks.
 
 

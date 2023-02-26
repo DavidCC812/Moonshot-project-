@@ -1,3 +1,7 @@
+## Decision-Making Process
+
+After my previous moonshot idea for a pharmaceutical delivery service was refused, I took the advice to heart and began exploring other potential ideas for my repository. Ultimately, I settled on two ideas: a machine learning-powered object recognition system for healthcare and a tool for managing personal finances. I am currently uncertain about which idea to select. While I have considered the legal issues and believe that both options are feasible, I would appreciate an outside perspective to assist me in making a final decision.
+
 # Machine Learning Fraud Detection System for Healthcare
 
 ## Overview
@@ -59,4 +63,9 @@ We will use a machine learning framework like TensorFlow or PyTorch to develop t
 ## Contributors
 
 - [David Cuahonte Cuevas]
+
+
+
+
+
 
